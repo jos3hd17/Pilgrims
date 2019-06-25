@@ -1,0 +1,37 @@
+.box{
+    height: 20px;
+}
+
+.cards-container{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.hr-white{
+    border-color: rgba($color: #66b935, $alpha: 1.0);
+}
+
+.cards-element{
+    background-color:rgba($color: #241801d2, $alpha: 0.85);
+    color:white;
+    padding: 15px;
+}
+
+hr{
+    border-color: white;
+}
+.map{
+    padding: 20px;
+}
+
+.footer{
+    padding-top:20px;
+    background-color: rgba($color: #66b935, $alpha: 1.0);
+    color: white;
+}
+
+.copyright{
+    background-color: rgba($color: #1b4900, $alpha: 1.0);
+}
