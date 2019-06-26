@@ -1,0 +1,37 @@
+{
+    "header": {
+        "subheader":{
+            "phone":"Numero telefónico: 3053077624",
+            "email":"Correo electrónico: pilgrimshostel@gmail.com"
+        },
+        "start": {
+            "title": "Inicio",
+            "description":"Ir a la pagina principal, con un resumen de nuestros servicios y planes tentativos"
+        },
+        "gallery":{
+            "title": "Galeria",
+            "description":" Ver la pagina con el contenido de todas las imagenes del hostal"
+        },
+        "contact": {
+            "title": "Contacto",
+            "description": "Ver información de contacto"
+        },
+        "language":"Idioma"
+    },
+    "brief":{
+        "us":{
+            "title":"¿Quienes somos?",
+            "description": "¿Estás cansado de la monotonía diaria, donde esta jungla de asfalto te adsorbe cada día? Te tenemos la solución unos días de descanso y de aprendizaje reconectandote contigo mismo en Guatape. Hay mucho por descubrir aquí en Colombia, en un ambiente de armonía de naturaleza. Te propongo recorridos rurales donde visitaremos lugares fantásticos disfrutando de la flora y fauna de la región."
+        },
+        "plans":{
+            "title": "Nuestros planes",
+            "btn":"Ver todo"
+        },
+        "location": {
+            "title": "Ubicacion",
+            "find": "Como encontrarnos",
+            "description": ""
+        }
+
+    }
+}

@@ -1,9 +1,9 @@
 <div class="navigation-info">
   <div class="row">
-    <div class="col"></div>
-    <div class="col">Numero telefónico: 3053077624</div>
-    <div class="col">Correo electrónico: pilgrimshostel@gmail.com</div>
-    <div class="col"></div>
+    <div class="col-2"></div>
+    <div class="col-4">{{ 'header.subheader.phone' | translate }}</div>
+    <div class="col-5">{{ 'header.subheader.email' | translate }}</div>
+    <div class="col-1"></div>
   </div>
 </div>
 <nav class="navbar navbar-dark logo-color container">
@@ -17,45 +17,45 @@
 
   <div class="collapse navbar-collapse cont-menu" id="navbarText">
     <ul class="navbar-nav mr-auto headlist">
-      <li class="nav-item active">
+      <li class="nav-item active" (click)="goTo('brief')">
         <div class="row">
           <div class="col-2">
-            <a class="nav-link">Home <span class="sr-only">(current)</span></a>
+            <a class="nav-link">{{ 'header.start.title' | translate }} <span class="sr-only">(current)</span></a>
           </div>
           <div class="col menu">
-            <p>Ir a la pagina principal, con un resumen de todos nuestros servicios y precios tentativos</p>
+            <p>{{ 'header.start.description' | translate }}</p>
           </div>
         </div>
       </li>
-      <li class="nav-item">
+      <li class="nav-item" (click)="goTo('gallery')">
         <div class="row">
           <div class="col-2">
-            <a class="nav-link">Gallery</a>
+            <a class="nav-link">{{ 'header.gallery.title' | translate }}</a>
           </div>
           <div class="col menu">
-            <p>Ver la pagina con las imagenes del hostal</p>
+            <p>{{ 'header.gallery.description' | translate }}</p>
           </div>
         </div>
 
       </li>
-      <li class="nav-item">
+      <li class="nav-item" (click)="goTo('contact')">
         <div class="row">
           <div class="col-2">
-            <a class="nav-link">Contact</a>
+            <a class="nav-link">{{ 'header.contact.title' | translate }}</a>
           </div>
           <div class="col menu">
-            <p>Go to Contact page</p>
+            <p>{{ 'header.contact.description' | translate }}</p>
           </div>
         </div>
       </li>
       <div class="row">
         <div class="col-7">
-          <a class="nav-link">Language</a>
+          <a class="nav-link">{{ 'header.language' | translate }}</a>
         </div>
         <div class="col-2">
-          <select class="browser-default custom-select">
-            <option selected>ES</option>
-            <option value="2">EN</option>
+          <select class="browser-default custom-select" #activelang (change)="changeLang(activelang.value)">
+            <option selected value="es">ES</option>
+            <option value="en">EN</option>
           </select>
         </div>
       </div>

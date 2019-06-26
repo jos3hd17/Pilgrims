@@ -1,0 +1,36 @@
+{
+    "header": {
+        "subheader":{
+            "phone":"Phone: (057)3053077624",
+            "email":"Email: pilgrimshostel@gmail.com"
+        },
+        "start": {
+            "title": "Start",
+            "description":"Go to landing page, this is a brief about us, and our plans"
+        },
+        "gallery":{
+            "title": "Gallery",
+            "description":"See all the pictures of hostel"
+        },
+        "contact": {
+            "title": "Contact",
+            "description": "View contact information"
+        },
+        "language":"Language"
+    },
+    "brief":{
+        "us":{
+            "title":"About us",
+            "description": "Are you tired of the daily monotony, where this jungle of asphalt adsorbs you every day? We have the solution for a few days of rest and learning, reconnecting with yourself in Guatape. There is much to discover here in Colombia, in an environment of harmony of nature. I propose you rural tours where we will visit fantastic places enjoying the flora and fauna of the region."
+        },
+        "plans":{
+            "title": "Our best plans",
+            "btn":"See all"
+        },
+        "location": {
+            "title": "Location",
+            "find": "Find us",
+            "description": ""
+        }
+    }
+}

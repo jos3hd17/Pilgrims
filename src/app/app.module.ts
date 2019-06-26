@@ -12,7 +12,8 @@ import { CarouselModule } from 'ngx-bootstrap/carousel';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    CarouselModule.forRoot()
+    CarouselModule.forRoot(),
+   
   ],
   providers: [],
   bootstrap: [AppComponent]
