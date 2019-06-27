@@ -10,9 +10,11 @@ import { TranslateLoader, TranslateModule } from '@ngx-translate/core';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 import { HttpClientModule, HttpClient } from '@angular/common/http';
 import { AgmCoreModule } from '@agm/core';
+import { ModalComponent } from './components/structure/modal/modal.component';
+import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 
 @NgModule({
-  declarations: [HeaderComponent, CarouselComponent, CardComponent, PictureComponent, MapComponent],
+  declarations: [HeaderComponent, CarouselComponent, CardComponent, PictureComponent, MapComponent, ModalComponent],
   imports: [
     CommonModule,
     CarouselModule.forRoot(),
@@ -29,7 +31,8 @@ import { AgmCoreModule } from '@agm/core';
         },
         deps: [ HttpClient ]
       }
-    })
+    }),
+    NgbModule
   ],
   exports: [
     HeaderComponent,
@@ -37,6 +40,7 @@ import { AgmCoreModule } from '@agm/core';
     CardComponent,
     PictureComponent,
     MapComponent
-  ]
+  ],
+  entryComponents: [ModalComponent],
 })
 export class GenericsModule { }

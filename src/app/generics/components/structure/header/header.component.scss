@@ -36,6 +36,7 @@ p{
     width: 100%;
     height: 25px;
     background-color:rgba($color: #66b935, $alpha: 1.0);
+    color:white;
 }
 
 .headlist li:hover{
@@ -44,6 +45,16 @@ p{
     cursor: pointer;
 }
 
+.pilgrims-title{
+    font-size: 20pt;
+    font-stretch: extra-expanded;   
+    line-height: 40px;
+}
+.pilgrims-subtitle{
+    font-size: 8pt;
+    font-stretch: extra-condensed;
+    line-height: 0px;
+}
 
 .green:focus {
     outline: #66b935;

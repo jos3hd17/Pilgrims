@@ -1,25 +1,25 @@
 [
     {
-        "img": "",
-        "title": "",
+        "img": "assets/images/cards/canopy.jpg",
+        "title": "Canopy",
         "text": "",
         "price": 0
     },
     {
-        "img": "",
-        "title": "",
+        "img": "assets/images/cards/camping.JPG",
+        "title": "Camping",
         "text": "",
         "price": 0
     },
     {
-        "img": "",
-        "title": "",
+        "img": "assets/images/cards/city-tour.JPG",
+        "title": "City tour",
         "text": "",
         "price": 0
     },
     {
-        "img": "",
-        "title": "",
+        "img": "assets/images/cards/yoga.jpeg",
+        "title": "Yoga",
         "text": "",
         "price": 0
     }

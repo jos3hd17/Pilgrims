@@ -11,6 +11,9 @@ import { PlansComponent } from './components/home-page/plans/plans.component';
 import { TranslateLoader, TranslateModule } from '@ngx-translate/core';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 import { HttpClientModule, HttpClient } from '@angular/common/http';
+
+import { MDBBootstrapModule } from 'angular-bootstrap-md';
+
 @NgModule({
   declarations: [HomePageComponent, BriefComponent, GalleryComponent, ContactComponent, PlansComponent],
   imports: [
@@ -26,7 +29,8 @@ import { HttpClientModule, HttpClient } from '@angular/common/http';
         },
         deps: [ HttpClient ]
       }
-    })
+    }),
+    MDBBootstrapModule.forRoot()
   ]
 })
 export class WebViewsModule { }

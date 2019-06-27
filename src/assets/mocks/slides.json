@@ -1,22 +1,26 @@
 [
     {
-        "image": "assets/images/slides/portada1.jpg",
-        "title": "",
-        "description": ""
+        "image": "assets/images/slides/portada1.JPG",
+        "title": "El peñon",
+        "description": "'Escala uno de los sitios turisticos más reconocidos de colombia'",
+        "info-contacto": true
     },
     {
-        "image": " assets/images/slides/portada2.jpg",
-        "title": "",
-        "description": ""
+        "image": " assets/images/slides/portada2.JPG",
+        "title": "Demasiado por conocer",
+        "description": "'Con las visitas a nuestro hermoso pueblo, conocerás nuestra cultura y te llevarás muestras de ella'",
+        "info-contacto": true
     },
     {
-        "image": "assets/images/slides/portada3.jpg",
+        "image": "assets/images/slides/portada3.JPG",
         "title": "",
-        "description": ""
+        "description": "",
+        "info-contacto": true
     },
     {
         "image": "assets/images/slides/portada4.JPG",
         "title": "",
-        "description": ""
+        "description": "",
+        "info-contacto": true
     }
 ]
