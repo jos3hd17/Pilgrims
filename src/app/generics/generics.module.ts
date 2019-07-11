@@ -12,9 +12,10 @@ import { HttpClientModule, HttpClient } from '@angular/common/http';
 import { AgmCoreModule } from '@agm/core';
 import { ModalComponent } from './components/structure/modal/modal.component';
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
+import { FooterComponent } from './components/structure/footer/footer.component';
 
 @NgModule({
-  declarations: [HeaderComponent, CarouselComponent, CardComponent, PictureComponent, MapComponent, ModalComponent],
+  declarations: [HeaderComponent, CarouselComponent, CardComponent, PictureComponent, MapComponent, ModalComponent, FooterComponent],
   imports: [
     CommonModule,
     CarouselModule.forRoot(),
@@ -39,7 +40,8 @@ import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
     CarouselComponent,
     CardComponent,
     PictureComponent,
-    MapComponent
+    MapComponent,
+    FooterComponent
   ],
   entryComponents: [ModalComponent],
 })

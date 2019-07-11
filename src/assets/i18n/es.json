@@ -1,7 +1,7 @@
 {
     "header": {
         "subheader":{
-            "phone":"Numero telefónico: 3053077624",
+            "phone":"Numero telefónico: (057) 319 721 2644",
             "email":"Correo electrónico: pilgrimshostel@gmail.com"
         },
         "start": {
@@ -18,6 +18,13 @@
         },
         "language":"Idioma"
     },
+    "slider": {
+        "book-button":"RESERVA AHORA",
+        "penon-title":"El peñon",
+        "penon-description": "'Escala uno de los sitios turisticos más reconocidos de colombia'",
+        "city-title":"Demasiado por conocer",
+        "city-description":"'Con las visitas a nuestro hermoso pueblo, conocerás nuestra cultura y te llevarás muestras de ella'"
+    },
     "brief":{
         "us":{
             "title":"¿Quienes somos?",
@@ -28,10 +35,41 @@
             "btn":"Ver todo"
         },
         "location": {
-            "title": "Ubicacion",
-            "find": "Como encontrarnos",
-            "description": ""
+            "title": "Ubicación",
+            "find": "¿Como encontrarnos?",
+            "description": "Estamos ubicados a 5 minutos en carro del malecón de guatapé, contamos con una grán reserva natural cercana al embalse. proximamente contaremos con transporte para mayor facilidad a nuestros huespedes."
         }
 
+    },
+    "cards": {
+        "canopy-title": "Canopy",
+        "canopy-description": "'En el malecón de guatapé podrás disfrutar de esta genial experiencia'",
+        "canopy-value": "0 COP",
+        "camping-title": "Camping",
+        "camping-description": "'Nuestro hostal tiene un espacio reservado para que te diviertas'",
+        "camping-value": "0 COP",
+        "city-tour-title": "Tour",
+        "city-tour-description": "'Te llevamos a recorrer toda la historia que esta pequeña ciudad posee'",
+        "city-tour-value": "0 COP",
+        "yoga-title": "Yoga",
+        "yoga-description": "'Ofrecemos las mejores clases de yoga, para distraerte del dia a dia'",
+        "yoga-value": "0 COP",
+        "hosting-title": "Hosting",
+        "hosting-description": "'Nuestro hospedaje es la mejor opción en tu viaje'",
+        "hosting-value": "0 COP",
+        "rural-walk-title": "Caminata rural",
+        "rural-walk-description": "'Tenemos una gran reserva natural por explorar'",
+        "rural-walk-value": "0 COP",
+        "spanish-classes-title": "Clases de español",
+        "spanish-classes-description": "'Para las personas extrangeras, brindamos cursos temporales de español'",
+        "spanish-classes-value": "0 COP",
+        "trip-ship-title": "Paseo en Barco",
+        "trip-ship-description": "'Una gran variedad de navíos por escoger, entra en uno!'",
+        "trip-ship-value": "0 COP"
+    },
+    "contact": {
+        "title": "2019 Hostel Pilgrims",
+        "description": "Esta pagina fue construida y distribuida por @hostelpilgrims todos los derechos reservados.",
+        "paragraph": "Puedes contactarnos al correo hostelpilgrims@gmail.com, o al telefono celular (057) 319 721 2644"
     }
 }

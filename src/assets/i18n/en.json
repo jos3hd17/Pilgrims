@@ -1,7 +1,7 @@
 {
     "header": {
         "subheader":{
-            "phone":"Phone: (057)3053077624",
+            "phone":"Phone: (057) 319 721 2644",
             "email":"Email: pilgrimshostel@gmail.com"
         },
         "start": {
@@ -18,6 +18,13 @@
         },
         "language":"Language"
     },
+    "slider": {
+        "book-button":"BOOK NOW",
+        "penon-title":"The peñon",
+        "penon-description": "'Scale one of the most recognized tourist sites in Colombia'",
+        "city-title":"Meet culture",
+        "city-description":"'With visits to our beautiful town, you will know our culture and you will take samples of it'"
+    },
     "brief":{
         "us":{
             "title":"About us",
@@ -30,7 +37,38 @@
         "location": {
             "title": "Location",
             "find": "Find us",
-            "description": ""
+            "description": "We are located 5 minutes by car from the Malecón de Guatapé, we have a large natural reserve near the reservoir. soon we will have transportation for our guests."
         }
+    },
+    "cards": {
+        "canopy-title": "Canopy",
+        "canopy-description": "",
+        "canopy-value": "0 COP",
+        "camping-title": "Camping",
+        "camping-description": "",
+        "camping-value": "0 COP",
+        "city-tour-title": "Tour",
+        "city-tour-description": "",
+        "city-tour-value": "0 COP",
+        "yoga-title": "Yoga",
+        "yoga-description": "",
+        "yoga-value": "0 COP",
+        "hosting-title": "Hosting",
+        "hosting-description": "",
+        "hosting-value": "0 COP",
+        "rural-walk-title": "Rural walk",
+        "rural-walk-description": "",
+        "rural-walk-value": "0 COP",
+        "spanish-classes-title": "Spanish Classes",
+        "spanish-classes-description": "",
+        "spanish-classes-value": "0 COP",
+        "trip-ship-title": "Trip in Ship",
+        "trip-ship-description": "",
+        "trip-ship-value": "0 COP"
+    },
+    "contact": {
+        "title": "2019 Hostel Pilgrims",
+        "description": "This page was built and distributed by @hostelpilgrims all rights reserved.",
+        "paragraph": "You can contact us at hostelpilgrims@gmail.com, or cell phone (057) 319 721 2644"
     }
 }
