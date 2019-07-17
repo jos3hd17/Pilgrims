@@ -3,10 +3,10 @@ import { join } from 'path';
 
 const app = express();
 
-app.use(static(__dirname + 'dist/angular-deploy'));
+app.use(static(__dirname + '/dist/'));
 
 app.get('*' , function(req, res) {
-    res.sendFile(join(__dirname + 'dist/angular-deploy/index.html'));
+    res.sendFile(join(__dirname + '/dist/index.html'));
 });
 
 app.listen(process.env.PORT || 8080);
