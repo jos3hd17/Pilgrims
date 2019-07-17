@@ -1,18 +1,18 @@
 [
     {
-        "image": "assets/images/slides/portada1.JPG",
+        "image": "assets/images/slides/portada1.jpg",
         "title": "slider.penon-title",
         "description": "slider.penon-description",
         "info-contacto": true
     },
     {
-        "image": " assets/images/slides/portada2.JPG",
+        "image": " assets/images/slides/portada2.jpg",
         "title": "slider.city-title",
         "description": "slider.city-description",
         "info-contacto": true
     },
     {
-        "image": "assets/images/slides/portada3.JPG",
+        "image": "assets/images/slides/portada3.jpg",
         "title": "",
         "description": "",
         "info-contacto": true

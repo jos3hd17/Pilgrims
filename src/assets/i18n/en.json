@@ -42,33 +42,42 @@
     },
     "cards": {
         "canopy-title": "Canopy",
-        "canopy-description": "",
-        "canopy-value": "0 COP",
+        "canopy-description": "'On the Guatapé boardwalk you can enjoy this great experience'",
+        "canopy-value": "5 USD",
         "camping-title": "Camping",
-        "camping-description": "",
-        "camping-value": "0 COP",
+        "camping-description": "'Our hostel has a space reserved for you to have fun'",
+        "camping-value": "3.50 USD",
         "city-tour-title": "Tour",
-        "city-tour-description": "",
-        "city-tour-value": "0 COP",
+        "city-tour-description": "'We take you to travel the whole history that this small city has'",
+        "city-tour-value": "7.50 USD",
         "yoga-title": "Yoga",
-        "yoga-description": "",
-        "yoga-value": "0 COP",
+        "yoga-description": "'We offer the best yoga classes, to distract you from day to day'",
+        "yoga-value": "11,50 USD",
         "hosting-title": "Hosting",
-        "hosting-description": "",
-        "hosting-value": "0 COP",
+        "hosting-description": "'Our accommodation is the best option on your trip, including breakfast and accommodation'",
+        "hosting-value": "15 USD",
         "rural-walk-title": "Rural walk",
-        "rural-walk-description": "",
-        "rural-walk-value": "0 COP",
+        "rural-walk-description": "'We have a large natural reserve to explore'",
+        "rural-walk-value": "3 USD",
         "spanish-classes-title": "Spanish Classes",
-        "spanish-classes-description": "",
-        "spanish-classes-value": "0 COP",
+        "spanish-classes-description": "'For foreigners, we offer temporary Spanish courses'",
+        "spanish-classes-value": "9 USD",
         "trip-ship-title": "Trip in Ship",
-        "trip-ship-description": "",
-        "trip-ship-value": "0 COP"
+        "trip-ship-description": "'A great variety of ships to choose, enter one!'",
+        "trip-ship-value": "22 USD"
     },
     "contact": {
         "title": "2019 Hostel Pilgrims",
         "description": "This page was built and distributed by @hostelpilgrims all rights reserved.",
         "paragraph": "You can contact us at hostelpilgrims@gmail.com, or cell phone (057) 319 721 2644"
+    },
+    "footer": {
+        "footer-title": "Come to our social networks!",
+        "footer-description": "Count on our best attention, answer all your questions in a timely manner, visit our networks to be informed of all our content and special offers for you",
+        "social-network":"Social networks"
+    },
+    "modal": {
+        "close": "Close",
+        "discover": "Discover"
     }
 }

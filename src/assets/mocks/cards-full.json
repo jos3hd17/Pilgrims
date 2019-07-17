@@ -3,48 +3,48 @@
         "img": "assets/images/cards/canopy.jpg",
         "title": "cards.canopy-title",
         "text": "cards.canopy-description",
-        "price": 0
+        "price": "cards.canopy-value"
     },
     {
         "img": "assets/images/cards/camping.JPG",
         "title": "cards.camping-title",
         "text": "cards.camping-description",
-        "price": 0
+        "price": "cards.camping-value"
     },
     {
         "img": "assets/images/cards/city-tour.JPG",
         "title": "cards.city-tour-title",
         "text": "cards.city-tour-description",
-        "price": 0
+        "price": "cards.city-tour-value"
     },
     {
         "img": "assets/images/cards/yoga.jpeg",
         "title": "cards.yoga-title",
         "text": "cards.yoga-description",
-        "price": 0
+        "price": "cards.yoga-value"
     },
     {
         "img": "assets/images/cards/hosting.JPG",
         "title": "cards.hosting-title",
         "text": "cards.hosting-description",
-        "price": 0
+        "price": "cards.hosting-value"
     },
     {
         "img": "assets/images/cards/rural-walk.JPG",
         "title": "cards.rural-walk-title",
         "text": "cards.rural-walk-description",
-        "price": 0
+        "price": "cards.rural-walk-value"
     },
     {
         "img": "assets/images/cards/spanish-classes.png",
         "title": "cards.spanish-classes-title",
         "text": "cards.spanish-classes-description",
-        "price": 0
+        "price": "cards.spanish-classes-value"
     },
     {
         "img": "assets/images/cards/ship.jpg",
         "title": "cards.trip-ship-title",
         "text": "cards.trip-ship-description",
-        "price": 0
+        "price": "cards.trip-ship-value"
     }
 ]
