@@ -2,7 +2,7 @@
     "header": {
         "subheader":{
             "phone":"Numero telefónico: (057) 319 721 2644",
-            "email":"Correo electrónico: pilgrimshostel@gmail.com"
+            "email":"Correo electrónico: hostelpilgrims@gmail.com"
         },
         "start": {
             "title": "Inicio",
@@ -47,7 +47,7 @@
         "canopy-value": "15.000 COP",
         "camping-title": "Camping",
         "camping-description": "'Nuestro hostal tiene un espacio reservado para que te diviertas'",
-        "camping-value": "10.000 COP",
+        "camping-value": "15.000 COP",
         "city-tour-title": "Tour",
         "city-tour-description": "'Te llevamos a recorrer toda la historia que esta pequeña ciudad posee'",
         "city-tour-value": "25.000 COP",
@@ -56,16 +56,16 @@
         "yoga-value": "35.000 COP",
         "hosting-title": "Hosting",
         "hosting-description": "'Nuestro hospedaje es la mejor opción en tu viaje, incluye desayuno y alojamiento'",
-        "hosting-value": "45.000 COP",
+        "hosting-value": "48.000 COP",
         "rural-walk-title": "Caminata rural",
         "rural-walk-description": "'Tenemos una gran reserva natural por explorar'",
-        "rural-walk-value": "10.000 COP",
+        "rural-walk-value": "20.000 COP",
         "spanish-classes-title": "Clases de español",
         "spanish-classes-description": "'Para las personas extrangeras, brindamos cursos temporales de español'",
-        "spanish-classes-value": "35.000 COP",
+        "spanish-classes-value": "280 USD",
         "trip-ship-title": "Paseo en Barco",
         "trip-ship-description": "'Una gran variedad de navíos por escoger, entra en uno!'",
-        "trip-ship-value": "65.000 COP"
+        "trip-ship-value": "15.000 COP"
     },
     "contact": {
         "title": "2019 Hostel Pilgrims",
@@ -79,6 +79,9 @@
     },
     "modal": {
         "close": "Cerrar",
-        "discover": "Descubrir"
+        "discover": "Descubrir",
+        "title": "¡Hola!",
+        "description": "Nos encanta tenerte aquí, por eso estas a un paso de vivir una experiencia unica en uno de los mejores lugares de colombia, por eso queremos que nos contactes y nos preguntes aquí",
+        "contact":"hostelpilgrims@gmail.com ó A los telefonos: 319 721 2644 y 321 899 4519"
     }
 }

@@ -2,7 +2,7 @@
     "header": {
         "subheader":{
             "phone":"Phone: (057) 319 721 2644",
-            "email":"Email: pilgrimshostel@gmail.com"
+            "email":"Email: hostelpilgrims@gmail.com"
         },
         "start": {
             "title": "Start",
@@ -46,25 +46,25 @@
         "canopy-value": "5 USD",
         "camping-title": "Camping",
         "camping-description": "'Our hostel has a space reserved for you to have fun'",
-        "camping-value": "3.50 USD",
+        "camping-value": "5 USD",
         "city-tour-title": "Tour",
         "city-tour-description": "'We take you to travel the whole history that this small city has'",
-        "city-tour-value": "7.50 USD",
+        "city-tour-value": "8.25 USD",
         "yoga-title": "Yoga",
         "yoga-description": "'We offer the best yoga classes, to distract you from day to day'",
         "yoga-value": "11,50 USD",
         "hosting-title": "Hosting",
         "hosting-description": "'Our accommodation is the best option on your trip, including breakfast and accommodation'",
-        "hosting-value": "15 USD",
+        "hosting-value": "16 USD",
         "rural-walk-title": "Rural walk",
         "rural-walk-description": "'We have a large natural reserve to explore'",
-        "rural-walk-value": "3 USD",
+        "rural-walk-value": "6.5 USD",
         "spanish-classes-title": "Spanish Classes",
         "spanish-classes-description": "'For foreigners, we offer temporary Spanish courses'",
-        "spanish-classes-value": "9 USD",
+        "spanish-classes-value": "280 USD",
         "trip-ship-title": "Trip in Ship",
         "trip-ship-description": "'A great variety of ships to choose, enter one!'",
-        "trip-ship-value": "22 USD"
+        "trip-ship-value": "5 USD"
     },
     "contact": {
         "title": "2019 Hostel Pilgrims",
@@ -78,6 +78,9 @@
     },
     "modal": {
         "close": "Close",
-        "discover": "Discover"
+        "discover": "Discover",
+        "title": "Hi!",
+        "description": "We love having you here, that's why you are one step away from living a unique experience in one of the best places in Colombia, that's why we want you to contact us and ask us here",
+        "contact":"hostelpilgrims@gmail.com or phones: 319 721 2644 y 321 899 4519"
     }
 }

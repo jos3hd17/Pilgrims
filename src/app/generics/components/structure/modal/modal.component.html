@@ -1,13 +1,13 @@
 <div class="modal-header">
-    <h4 class="modal-title">¡Hola!</h4>
+    <h4 class="modal-title">{{'modal.title' | translate}}</h4>
     <button type="button" class="close" aria-label="Close" (click)="activeModal.dismiss('Cross click')">
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
 <div class="modal-body">
-    <p>Nos encanta tenerte aquí, por eso estas a un paso de vivir una experiencia unica en uno de los mejores lugares de colombia, por eso queremos que nos contactes y nos preguntes aquí</p>
-    <h5>pilgrimshostel@gmail.com ó Al telefono: 3053077624</h5>
+    <p>{{'modal.description' | translate}}</p>
+    <h5>{{'modal.contact' | translate}} </h5>
 </div>
 <div class="modal-footer">
-    <button type="button" class="btn btn-outline-dark" (click)="activeModal.close('Close click')">Close</button>
+    <button type="button" class="btn btn-outline-dark" (click)="activeModal.close('Close click')">{{'modal.close' | translate}}</button>
 </div>
