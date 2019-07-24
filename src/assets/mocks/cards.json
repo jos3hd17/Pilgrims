@@ -1,24 +1,24 @@
 [
     {
-        "img": "assets/images/cards/canopy.jpg",
+        "img": "https://i.ibb.co/xjXCjdT/canopy.jpg",
         "title": "cards.canopy-title",
         "text": "cards.canopy-description",
         "price": "cards.canopy-value"
     },
     {
-        "img": "assets/images/cards/camping.JPG",
+        "img": "https://i.ibb.co/5xPdnLj/camping.jpg",
         "title": "cards.camping-title",
         "text": "cards.camping-description",
         "price": "cards.camping-value"
     },
     {
-        "img": "assets/images/cards/city-tour.JPG",
+        "img": "https://i.ibb.co/nBn1t23/city-tour.jpg",
         "title": "cards.city-tour-title",
         "text": "cards.city-tour-description",
         "price": "cards.city-tour-value"
     },
     {
-        "img": "assets/images/cards/hosting.JPG",
+        "img": "https://i.ibb.co/CQkq9zK/hosting.jpg",
         "title": "cards.hosting-title",
         "text": "cards.hosting-description",
         "price": "cards.hosting-value"
