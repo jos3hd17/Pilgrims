@@ -1,0 +1,18 @@
+<img src="{{service.img}}" alt="" width="100%" height="250px">
+<div class="container size">
+    <div class="row title mt20">{{service.title | translate}}</div>
+    <hr>
+    <div class="row addons">
+        <div class="col borders">Detalles</div>
+        <div class="col">Precios</div>
+    </div>
+    <div class="row line" *ngFor="let detail of service.details">
+        <div class="col borders">{{detail.description}}</div>
+        <div class="col">{{detail.price}}</div>
+    </div>
+    <hr>
+    <div class="row notes">*Notas: "{{service.notes}}"</div>
+   <!--  <div class="row close">
+        <button class="btn btn-success">Close</button>
+    </div> -->
+</div>

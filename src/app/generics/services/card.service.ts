@@ -6,13 +6,14 @@ import { HttpClient } from '@angular/common/http';
   providedIn: 'root'
 })
 export class CardService {
-  url = "";
+  url = '';
   urlShort = 'assets/mocks/cards.json';
-  urlAll = 'assets/mocks/cards-full.json'
+  urlAll = 'assets/mocks/cards-full.json';
   constructor(private http: HttpClient) { }
 
   getCards(all): Observable<any> {
     this.url = all ? this.urlAll : this.urlShort;
     return this.http.get(this.url);
-  };
+  }
+
 }

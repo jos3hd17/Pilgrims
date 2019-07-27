@@ -13,9 +13,19 @@ import { AgmCoreModule } from '@agm/core';
 import { ModalComponent } from './components/structure/modal/modal.component';
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import { FooterComponent } from './components/structure/footer/footer.component';
+import { ModalDetailComponent } from './components/structure/modal-detail/modal-detail.component';
 
 @NgModule({
-  declarations: [HeaderComponent, CarouselComponent, CardComponent, PictureComponent, MapComponent, ModalComponent, FooterComponent],
+  declarations: [
+    HeaderComponent,
+    CarouselComponent,
+    CardComponent,
+    PictureComponent,
+    MapComponent,
+    ModalComponent,
+    FooterComponent,
+    ModalDetailComponent
+  ],
   imports: [
     CommonModule,
     CarouselModule.forRoot(),
@@ -43,6 +53,6 @@ import { FooterComponent } from './components/structure/footer/footer.component'
     MapComponent,
     FooterComponent
   ],
-  entryComponents: [ModalComponent],
+  entryComponents: [ModalComponent, ModalDetailComponent],
 })
 export class GenericsModule { }

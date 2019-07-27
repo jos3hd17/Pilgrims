@@ -3,24 +3,73 @@
         "img": "https://i.ibb.co/xjXCjdT/canopy.jpg",
         "title": "cards.canopy-title",
         "text": "cards.canopy-description",
-        "price": "cards.canopy-value"
+        "price": "cards.canopy-value",
+        "details": [
+            {
+                "description": "1 Lanzada en canopy por malecón y embalse",
+                "price": "COP: 15.000"
+            }
+        ],
+        "notes": "Al reservar uno de estos planes, está sujeto a las normativas del hostal durante su estadia"
     },
     {
         "img": "https://i.ibb.co/5xPdnLj/camping.jpg",
         "title": "cards.camping-title",
         "text": "cards.camping-description",
-        "price": "cards.camping-value"
+        "price": "cards.camping-value",
+        "details": [
+            {
+                "description": "Solo camping con carpa propia",
+                "price": "COP: 15.000"
+            },
+            {
+                "description": "Alquiler de carpa para camping",
+                "price": "COP: 30.000"
+            }
+        ],
+        "notes": "Al reservar uno de estos planes, está sujeto a las normativas del hostal durante su estadia"
+
     },
     {
         "img": "https://i.ibb.co/nBn1t23/city-tour.jpg",
         "title": "cards.city-tour-title",
         "text": "cards.city-tour-description",
-        "price": "cards.city-tour-value"
+        "price": "cards.city-tour-value",
+        "details": [
+            {
+                "description": "Tour por el pueblo de guatapé y sus alrededores",
+                "price": "COP: 15.000"
+            },
+            {
+                "description": "Tour completo por el embalse y el peñol",
+                "price": "COP: 35.000"
+            }
+        ],
+        "notes": "Al reservar uno de estos planes, está sujeto a las normativas del hostal durante su estadia"
     },
     {
         "img": "https://i.ibb.co/CQkq9zK/hosting.jpg",
         "title": "cards.hosting-title",
         "text": "cards.hosting-description",
-        "price": "cards.hosting-value"
+        "price": "cards.hosting-value",
+        "details": [
+            {
+                "description": "Hosting sin desayuno",
+                "price": "COP: 42.000"
+            },
+            {
+                "description": "Hosting con desayuno",
+                "price": "COP: 48.000"
+            },
+            {
+                "description": "Cuarto privado con baño",
+                "price": "COP: 110.000"
+            },
+            {
+                "description": "Cuarto privado sin baño",
+                "price": "COP: 100.000"
+            }
+        ],
+        "notes": "Al reservar uno de estos planes, está sujeto a las normativas del hostal durante su estadia"
     }
 ]
