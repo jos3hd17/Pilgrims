@@ -20,11 +20,7 @@
         "details": [
             {
                 "description": "Solo camping con carpa propia",
-                "price": "COP: 15.000"
-            },
-            {
-                "description": "Alquiler de carpa para camping",
-                "price": "COP: 30.000"
+                "price": "COP: 10.000"
             }
         ],
         "notes": "Al reservar uno de estos planes, está sujeto a las normativas del hostal durante su estadia"
@@ -63,11 +59,11 @@
             },
             {
                 "description": "Cuarto privado con baño",
-                "price": "COP: 110.000"
+                "price": "COP: 70.000"
             },
             {
                 "description": "Cuarto privado sin baño",
-                "price": "COP: 100.000"
+                "price": "COP: 60.000"
             }
         ],
         "notes": "Al reservar uno de estos planes, está sujeto a las normativas del hostal durante su estadia"

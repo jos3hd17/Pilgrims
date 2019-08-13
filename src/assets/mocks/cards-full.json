@@ -21,11 +21,7 @@
         "details": [
             {
                 "description": "Solo camping con carpa propia",
-                "price": "COP: 15.000"
-            },
-            {
-                "description": "Alquiler de carpa para camping",
-                "price": "COP: 30.000"
+                "price": "COP: 10.000"
             }
         ],
         "notes": "Al reservar uno de estos planes, está sujeto a las normativas del hostal durante su estadia"
@@ -39,11 +35,7 @@
         "details": [
             {
                 "description": "Tour por el pueblo de guatapé y sus alrededores",
-                "price": "COP: 15.000"
-            },
-            {
-                "description": "Tour completo por el embalse y el peñol",
-                "price": "COP: 35.000"
+                "price": "¡PREGUNTAR!"
             }
         ],
         "notes": "Al reservar uno de estos planes, está sujeto a las normativas del hostal durante su estadia"
@@ -101,7 +93,7 @@
                 "price": "USD: 560"
             }
         ],
-        "notes": "Las clases de español incluyen desayuno y almuerzo de lunes a jueves, importante mensionar nivel"
+        "notes": "Las clases de español incluyen desayuno y almuerzo de lunes a jueves, importante mensionar nivel, POR COMENZAR EN SEPTIEMBRE 02 DE 2019"
     },
     {
         "img": "https://i.ibb.co/6DBHDB3/ship.jpg",
